@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111962589392",
+    "project_id": "bmt310proje",
+    "storage_bucket": "bmt310proje.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111962589392:android:f24d73a5b037c2cae076d5",
+        "android_client_info": {
+          "package_name": "com.example.bmt310proje"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRFyPBQdLToSTDZ0aJ-RUk4DwQ4gK5YlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
